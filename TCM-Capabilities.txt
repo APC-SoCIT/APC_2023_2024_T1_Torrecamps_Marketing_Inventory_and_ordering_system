@@ -1,0 +1,16 @@
+Customer
+Manage Profile - Edit Profile and Change Pass
+Manage Order - Buy, Refund, View Invoice
+
+Employee
+Manage Profile - Edit Profile and Change Pass
+Manage Order - View Invoice, Resend Email, Update Status Order
+Manage Inventory - Purchase order but never approve
+Report - Print - Stock Report
+
+Admin
+Manage Profile - Edit Profile and Change Pass
+Manage Order - View Invoice, Resend Email, Update Status Order
+Manage Inventory - Purchase order can approve
+Report - Print - Stock Report
+Manage Supplier - Remove and add
